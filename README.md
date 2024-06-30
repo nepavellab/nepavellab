@@ -4,7 +4,9 @@
 <h3 align="center">Math & CS student</h3>
 <h3 align="center"> Begginer backend developer</h3>
 
-![GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2s3cjZ1YndhOHkyZWtoaWIwbmM1ejlzZDc3bWF1cDVhN2kyc2dxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6CMWn0pl3y96h2iJrY/giphy.gif)
+<div align="center">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2s3cjZ1YndhOHkyZWtoaWIwbmM1ejlzZDc3bWF1cDVhN2kyc2dxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6CMWn0pl3y96h2iJrY/giphy.gif" />
+</div>
 
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=FF8C00)
