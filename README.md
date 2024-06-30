@@ -8,13 +8,15 @@
     <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2s3cjZ1YndhOHkyZWtoaWIwbmM1ejlzZDc3bWF1cDVhN2kyc2dxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6CMWn0pl3y96h2iJrY/giphy.gif" />
 </div>
 
-### Languages and Tools
-![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=FF8C00)
-![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=0000CD)
-![C](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=C&logoColor=8A2BE2)
-![Firebase](https://img.shields.io/badge/-firebase-090909?style=for-the-badge&logo=firebase&logoColor=F0E68C)
-![SQL](https://img.shields.io/badge/-sql-090909?style=for-the-badge&logo=sqlite&logoColor=00FFFF)
-![Qt](https://img.shields.io/badge/-qt-090909?style=for-the-badge&logo=qt&logoColor=00FF00)
+<div align="center">
+    <h1>Languages and tools</h1>
+    ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=FF8C00)
+    ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=0000CD)
+    ![C](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=C&logoColor=8A2BE2)
+    ![Firebase](https://img.shields.io/badge/-firebase-090909?style=for-the-badge&logo=firebase&logoColor=F0E68C)
+    ![SQL](https://img.shields.io/badge/-sql-090909?style=for-the-badge&logo=sqlite&logoColor=00FFFF)
+    ![Qt](https://img.shields.io/badge/-qt-090909?style=for-the-badge&logo=qt&logoColor=00FF00)
+</div>
 
 
 ### Follow me
