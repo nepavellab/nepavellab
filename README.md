@@ -9,11 +9,7 @@
 ### Languages
 <div align="center">
     <img src="https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python&logoColor=ff073a" />
-</div>
-<div align="center">
     <img src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=0000CD" />
-</div>
-<div align="center">
     <img src="https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=kotlin" />
 </div> <br /> <br />
 
