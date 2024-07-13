@@ -7,9 +7,15 @@
 </div>
 
 ### Languages
-![Python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python&logoColor=ff073a)
-![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=0000CD)
-![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=kotlin) <br /> <br />
+<div align="center">
+    <img src="https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python&logoColor=ff073a" />
+</div>
+<div align="center">
+    <img src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=0000CD" />
+</div>
+<div align="center">
+    <img src="https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=kotlin" />
+</div> <br /> <br />
 
 ### Tools
 ![Firebase](https://img.shields.io/badge/-firebase-090909?style=for-the-badge&logo=firebase&logoColor=F0E68C)
