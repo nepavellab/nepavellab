@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python&logoColor=ff073a" />
     <img src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=0000CD" />
     <img src="https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=kotlin" />
-</div> <br /> <br />
+</div> <br />
 
 <div align="center">
     <h1 style="font-size: 20px;"><tt>Tools</tt></h1>
