@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-    <h1 style="font-size: 25px;"><tt>Languages</tt></h1>
+    <h1 style="font-size: 20px;"><tt>Languages</tt></h1>
 </div>
 
 <div align="center">
@@ -16,19 +16,35 @@
     <img src="https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=kotlin" />
 </div> <br /> <br />
 
-### Tools
-![Firebase](https://img.shields.io/badge/-firebase-090909?style=for-the-badge&logo=firebase&logoColor=F0E68C)
-![SQL](https://img.shields.io/badge/-sql-090909?style=for-the-badge&logo=sqlite&logoColor=00FFFF)
-![Qt](https://img.shields.io/badge/-qt-090909?style=for-the-badge&logo=qt&logoColor=00FF00)
-![Git](https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git&logoColor=FF8C00)
-![Android](https://img.shields.io/badge/-android-090909?style=for-the-badge&logo=android)
+<div align="center">
+    <h1 style="font-size: 20px;"><tt>Tools</tt></h1>
+</div>
 
+<div align="center">
+    <img src="https://img.shields.io/badge/-firebase-090909?style=for-the-badge&logo=firebase&logoColor=F0E68C" />
+    <img src="https://img.shields.io/badge/-sql-090909?style=for-the-badge&logo=sqlite&logoColor=00FFFF" />
+    <img src="https://img.shields.io/badge/-qt-090909?style=for-the-badge&logo=qt&logoColor=00FF00" />
+    <img src="https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git&logoColor=FF8C00" />
+    <img src="https://img.shields.io/badge/-android-090909?style=for-the-badge&logo=android" />
+</div> <br />
 
-### Follow me
-[![Telegram](https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/Nep_pasha/)
-[![LeetCode](https://img.shields.io/badge/-leetcode-090909?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/GNU_nan0_machine_s0n/)
+<div align="center">
+    <h1 style="font-size: 20px;"><tt>Follow me</tt></h1>
+</div>
 
-### Some statistics
+<div align="center">
+    <a href="https://t.me/Nep_pasha/">
+        <img src="https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram" />
+    </a>
+    <a href="https://leetcode.com/u/GNU_nan0_machine_s0n/">
+        <img src="https://img.shields.io/badge/-leetcode-090909?style=for-the-badge&logo=leetcode" />
+    </a>
+</div>
+
+<div align="center">
+    <h1 style="font-size: 20px;"><tt>Some statistics</tt></h1>
+</div>
+
 <div align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nepavellab&theme=dark" />
 </div>
