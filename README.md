@@ -1,28 +1,3 @@
-<style>
-    .wrapper { 
-        display: flex; 
-        justify-content: center; 
-    } 
-
-    h1.typewriter {
-        color: #5a4fcf;
-        font-size: 30px;
-        overflow: hidden; 
-        white-space: nowrap; 
-        margin: 0 auto; 
-        animation: typing 3s steps(40, end) infinite
-    } 
-
-    @keyframes typing { 
-        from { 
-            width: 0
-        } 
-        to { 
-            width: 550px
-        } 
-    }
-</style>
-
 <h1 class="typewriter" id="welcome-inscription">
     <tt>CS student. Mobile Developer</tt>
 </h1>
