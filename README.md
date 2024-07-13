@@ -1,5 +1,5 @@
 <h1 align="center">
-    <span style="color: #25a36f; font-size: 40px;">CS</span>
+    <span style="font-size: 40px;">CS</span>
     <span style="font-size: 35px;">student</span>
 </h1>
 
