@@ -13,7 +13,7 @@
 </div> <br />
 
 <div align="center">
-    <h1 style="font-size: 20px;"><tt>:bowtie:Tools</tt></h1>
+    <h1 style="font-size: 20px;"><tt>Tools</tt></h1>
 </div>
 
 <div align="center">
