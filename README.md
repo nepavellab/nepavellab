@@ -24,4 +24,4 @@
 
 
 ### Some statistics
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nepavellab&theme=dark)
