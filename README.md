@@ -6,7 +6,7 @@
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmVkNmxyNjk2MHVrdjdmYmMwcm5vdnR4MGc3amQ1Z2ZqcW15OXNlOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GwtfUx2P2HnvByDZdg/giphy.webp" />
 </div>
 
-### Languages
+### \Languages
 <div align="center">
     <img src="https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python&logoColor=ff073a" />
     <img src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=0000CD" />
