@@ -1,6 +1,4 @@
-<h1 class="typewriter" id="welcome-inscription">
-    <tt>CS student. Mobile Developer</tt>
-</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&pause=1000&color=36D16D&center=true&vCenter=true&random=false&width=435&lines=Computer+science+student;Mobile+developer)](https://git.io/typing-svg)
 
 <div align="center">
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmVkNmxyNjk2MHVrdjdmYmMwcm5vdnR4MGc3amQ1Z2ZqcW15OXNlOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GwtfUx2P2HnvByDZdg/giphy.webp" />
