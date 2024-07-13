@@ -24,4 +24,6 @@
 [![LeetCode](https://img.shields.io/badge/-leetcode-090909?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/GNU_nan0_machine_s0n/)
 
 ### Some statistics
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nepavellab&theme=dark)
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nepavellab&theme=dark" />
+</div>
