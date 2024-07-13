@@ -4,7 +4,7 @@
 </h1>
 
 <div align="center">
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExODI1NzBqeXU5bnRmdWw2eDh3Y2gzdGZjaHVuMzE3M2RjcHQ3bDdociZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.webp" />
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG90NmlkNzhoczVqaDVrczhkNnA0aGhlM2s4bHFmN2RqYzVvbGd5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TXCg36V5nMC0NrvIPh/giphy.webp" />
 </div>
 
 ### Languages and Tools
