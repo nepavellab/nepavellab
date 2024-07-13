@@ -9,9 +9,9 @@
 ### Languages
 ![Python](https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python&logoColor=ff073a)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=0000CD)
-![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=kotlin) <br />
+![Kotlin](https://img.shields.io/badge/-Kotlin-090909?style=for-the-badge&logo=kotlin) <br /> <br />
 
-###Tools
+### Tools
 ![Firebase](https://img.shields.io/badge/-firebase-090909?style=for-the-badge&logo=firebase&logoColor=F0E68C)
 ![SQL](https://img.shields.io/badge/-sql-090909?style=for-the-badge&logo=sqlite&logoColor=00FFFF)
 ![Qt](https://img.shields.io/badge/-qt-090909?style=for-the-badge&logo=qt&logoColor=00FF00)
