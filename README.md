@@ -1,5 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&pause=1000&color=36D16D&center=true&vCenter=true&random=false&width=435&lines=Computer+science+student;Mobile+developer)](https://git.io/typing-svg)
-
+<div align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&pause=1000&color=36D16D&center=true&vCenter=true&random=false&width=435&lines=Computer+science+student;Mobile+developer" alt="Typing SVG" /></a>
+</div>
 <div align="center">
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmVkNmxyNjk2MHVrdjdmYmMwcm5vdnR4MGc3amQ1Z2ZqcW15OXNlOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GwtfUx2P2HnvByDZdg/giphy.webp" />
 </div>
