@@ -42,7 +42,7 @@
 </div>
 
 <div align="center">
-    <h1 style="font-size: 20px; background: transparent"><tt>Some statistics</tt></h1>
+    <h1 style="font-size: 20px; background-color: transparent"><tt>Some statistics</tt></h1>
 </div>
 
 <div align="center">
