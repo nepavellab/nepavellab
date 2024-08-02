@@ -1,6 +1,6 @@
-<div align="center">
+<!--<div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&pause=1000&color=36D16D&center=true&vCenter=true&random=false&width=435&lines=Computer+science+student;Mobile+developer" alt="Typing SVG" /></a>
-</div>
+</div>-->
 
 <div align="center">
     <h1 style="font-size: 20px;"><tt>Languages</tt></h1>
