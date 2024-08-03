@@ -21,7 +21,7 @@
     <img src="https://img.shields.io/badge/-sql-090909?style=for-the-badge&logo=sqlite&logoColor=00FFFF" />
     <img src="https://img.shields.io/badge/-qt-090909?style=for-the-badge&logo=qt&logoColor=00FF00" />
     <img src="https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git&logoColor=FF8C00" />
-    <img src="https://img.shields.io/badge/-android-090909?style=for-the-badge&logo=android" />
+    <img src="https://img.shields.io/badge/-obsidian-090909?style=for-the-badge&logo=obsidian" />
 </div> <br />
 
 <div align="center">
