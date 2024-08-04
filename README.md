@@ -3,8 +3,9 @@
 </div>-->
 
 # Languages
-<div align="left" style="font-size: 40px;">
-    <img src="https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python&logoColor=ff073a" />
+<div align="left">
+    <img src="https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python&logoColor=ff073a"
+        style="font-size: 20px;"/>
     <img src="https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=C" />
     <img src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=0067BC" />
 </div> <br />
