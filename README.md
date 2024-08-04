@@ -4,17 +4,13 @@
 
 # Languages
 <div align="left">
-    <img src="https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python&logoColor=ff073a"
-        style="font-size: 40px;"/>
+    <img src="https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python&logoColor=ff073a"/>
     <img src="https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=C" />
     <img src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=0067BC" />
 </div> <br />
 
-<div align="center">
-    <h1 style="font-size: 20px;"><tt>Tools</tt></h1>
-</div>
-
-<div align="center">
+# Tools
+<div align="left">
     <img src="https://img.shields.io/badge/-firebase-090909?style=for-the-badge&logo=firebase&logoColor=F0E68C" />
     <img src="https://img.shields.io/badge/-sql-090909?style=for-the-badge&logo=sqlite&logoColor=00FFFF" />
     <img src="https://img.shields.io/badge/-qt-090909?style=for-the-badge&logo=qt&logoColor=00FF00" />
@@ -22,11 +18,8 @@
     <img src="https://img.shields.io/badge/-obsidian-090909?style=for-the-badge&logo=obsidian&logoColor=8e44ad" />
 </div> <br />
 
-<div align="center">
-    <h1 style="font-size: 20px;"><tt>Follow me</tt></h1>
-</div>
-
-<div align="center">
+# Follow me
+<div align="left">
     <a href="https://t.me/Nep_pasha/">
         <img src="https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram" />
     </a>
@@ -35,10 +28,7 @@
     </a>
 </div>
 
-<div align="center">
-    <h1 style="font-size: 20px;"><tt>Some statistics</tt></h1>
-</div>
-
-<div align="center">
+# Some statistics
+<div align="left">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nepavellab&theme=dark" />
 </div>
