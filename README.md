@@ -2,13 +2,8 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&pause=1000&color=36D16D&center=true&vCenter=true&random=false&width=435&lines=Computer+science+student;Mobile+developer" alt="Typing SVG" /></a>
 </div>-->
 
-<!-- <div align="left">
-    <h1 style="font-size: 20px;"><tt>Languages</tt></h1>
-</div> -->
-
 # Languages
-
-<div align="left">
+<div align="left" style="font-size: 20px;">
     <img src="https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python&logoColor=ff073a" />
     <img src="https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=C" />
     <img src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=0067BC" />
