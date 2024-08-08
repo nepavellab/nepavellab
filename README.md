@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=0067BC" />
 </div> <br />
 
-# Tools
+# Tools & Frameworks
 <div align="left">
     <img src="https://img.shields.io/badge/-qt-002379?style=for-the-badge&logo=qt&logoColor=00FF00" />
     <img src="https://img.shields.io/badge/-git-002379?style=for-the-badge&logo=git&logoColor=FF8C00" />
