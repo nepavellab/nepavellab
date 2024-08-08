@@ -3,6 +3,7 @@
     <img src="https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python&logoColor=ff073a"/>
     <img src="https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=C" />
     <img src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=0067BC" />
+    <img src="https://img.shields.io/badge/-bash-090909?style=for-the-badge&logo=shell">
 </div> <br />
 
 # 🧰 Tools & Frameworks
