@@ -1,11 +1,11 @@
-# Languages
+# 💻 Languages
 <div align="left">
     <img src="https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python&logoColor=ff073a"/>
     <img src="https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=C" />
     <img src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=0067BC" />
 </div> <br />
 
-# Tools & Frameworks
+# 🧰 Tools & Frameworks
 <div align="left">
     <img src="https://img.shields.io/badge/-qt-002379?style=for-the-badge&logo=qt&logoColor=00FF00" />
     <img src="https://img.shields.io/badge/-git-002379?style=for-the-badge&logo=git&logoColor=FF8C00" />
@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/-linux-090909?style=for-the-badge&logo=kalilinux">
 </div> <br />
 
-# Follow me
+# 📲 Follow me
 <div align="left">
     <a href="https://t.me/Nep_pasha/">
         <img src="https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram" />
