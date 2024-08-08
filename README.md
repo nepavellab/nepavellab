@@ -1,7 +1,3 @@
-<!--<div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=30&pause=1000&color=36D16D&center=true&vCenter=true&random=false&width=435&lines=Computer+science+student;Mobile+developer" alt="Typing SVG" /></a>
-</div>-->
-
 # Languages
 <div align="left">
     <img src="https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python&logoColor=ff073a"/>
@@ -11,11 +7,11 @@
 
 # Tools
 <div align="left">
+    <img src="https://img.shields.io/badge/-qt-002379?style=for-the-badge&logo=qt&logoColor=00FF00" />
+    <img src="https://img.shields.io/badge/-git-002379?style=for-the-badge&logo=git&logoColor=FF8C00" />
+    <img src="https://img.shields.io/badge/-sql-090909?style=for-the-badge&logo=sqlite&logoColor=FFA62F" />
     <img src="https://img.shields.io/badge/-firebase-090909?style=for-the-badge&logo=firebase&logoColor=F0E68C" />
-    <img src="https://img.shields.io/badge/-sql-090909?style=for-the-badge&logo=sqlite&logoColor=00FFFF" />
-    <img src="https://img.shields.io/badge/-qt-090909?style=for-the-badge&logo=qt&logoColor=00FF00" />
-    <img src="https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git&logoColor=FF8C00" />
-    <img src="https://img.shields.io/badge/-obsidian-090909?style=for-the-badge&logo=obsidian&logoColor=8e44ad" />
+    <img src="https://img.shields.io/badge/-linux-090909?style=for-the-badge&logo=kalilinux">
 </div> <br />
 
 # Follow me
