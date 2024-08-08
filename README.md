@@ -25,7 +25,7 @@
     </a>
 </div>
 
-# Some statistics
+# 📊 Some statistics
 <div align="left">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nepavellab&theme=dark" />
 </div>
