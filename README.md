@@ -1,8 +1,8 @@
 # 💻 Languages
 <div align="left">
-    <img src="https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python&logoColor=ff073a"/>
-    <img src="https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=C" />
-    <img src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=0067BC" />
+    <img src="https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python&logoColor=FF5F00"/>
+    <img src="https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=C&logoColor=050C9C" />
+    <img src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=050C9C" />
 </div> <br />
 
 # 🧰 Tools & Frameworks
@@ -13,6 +13,7 @@
     <img src="https://img.shields.io/badge/-sql-090909?style=for-the-badge&logo=sqlite&logoColor=FFA62F" />
     <img src="https://img.shields.io/badge/-firebase-090909?style=for-the-badge&logo=firebase&logoColor=F0E68C" />
     <img src="https://img.shields.io/badge/-linux-090909?style=for-the-badge&logo=kalilinux">
+    <img src="https://img.shields.io/badge/-cmake-090909?style=for-the-badge&logo=cmake&logoColor=ff073a">
 </div> <br />
 
 # 📲 Follow me
