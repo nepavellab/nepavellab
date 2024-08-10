@@ -1,7 +1,6 @@
 # 💻 Languages
 <div align="left">
     <img src="https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python&logoColor=06D001"/>
-    <img src="https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=C" />
     <img src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=10439F" />
     <img src="https://img.shields.io/badge/-kotlin-090909?style=for-the-badge&logo=kotlin&logoColor=B125EA" />
 </div> <br />
