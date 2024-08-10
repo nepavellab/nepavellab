@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/-qt-180161?style=for-the-badge&logo=qt&logoColor=00FF00" />
     <img src="https://img.shields.io/badge/-git-180161?style=for-the-badge&logo=git&logoColor=FF8C00" />
     <img src="https://img.shields.io/badge/-Vim-019733.svg?style=for-the-badge&logo=vim&logoColor=white" />
-    <img src="https://img.shields.io/badge/-sql-090909?style=for-the-badge&logo=sqlite&logoColor=FFA62F" />
+    <img src="https://img.shields.io/badge/-sql-090909?style=for-the-badge&logo=sqlite&logoColor=5B99C2" />
     <img src="https://img.shields.io/badge/-firebase-090909?style=for-the-badge&logo=firebase&logoColor=F0E68C" />
     <img src="https://img.shields.io/badge/-linux-090909?style=for-the-badge&logo=kalilinux">
     <img src="https://img.shields.io/badge/-latex-090909?style=for-the-badge&logo=latex&logoColor=179BAE">
