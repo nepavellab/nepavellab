@@ -9,7 +9,6 @@
 # 🔧 Tools
 <div align="left">
     <img src="https://img.shields.io/badge/-git-4535C1?style=for-the-badge&logo=git&logoColor=FF8C00" />
-    <img src="https://img.shields.io/badge/-vscode-019733.svg?style=for-the-badge&logo=vscode" />
     <img src="https://img.shields.io/badge/-firebase-323330?style=for-the-badge&logo=firebase&logoColor=F0E68C" />
     <img src="https://img.shields.io/badge/-latex-090909?style=for-the-badge&logo=latex&logoColor=179BAE" />
     <img src="https://img.shields.io/badge/-obsidian-090909?style=for-the-badge&logo=obsidian&logoColor=A88BFA" />
