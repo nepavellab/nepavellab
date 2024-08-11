@@ -1,13 +1,13 @@
 # 💻 Languages
 <div align="left">
-    <img src="https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python&logoColor=06D001"/>
-    <img src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=10439F" />
-    <img src="https://img.shields.io/badge/-kotlin-090909?style=for-the-badge&logo=kotlin&logoColor=B125EA" />
+    <img src="https://img.shields.io/badge/-python-3776AB?style=for-the-badge&labelColor=090909&logo=python&logoColor=06D001"/>
+    <img src="https://img.shields.io/badge/-C++-3776AB?style=for-the-badge&labelColor=090909&logo=C%2b%2b&logoColor=10439F" />
+    <img src="https://img.shields.io/badge/-kotlin-3776AB?style=for-the-badge&labelColor=090909&logo=kotlin&logoColor=B125EA" />
 </div> <br />
 
 # 🔧 Tools
 <div align="left">
-    <img src="https://img.shields.io/badge/-git-4535C1?style=for-the-badge&logo=git&logoColor=FF8C00" />
+    <img src="https://img.shields.io/badge/-git-4535C1?style=for-the-badge&logo=git&labelColor=090909&logoColor=FF8C00" />
     <img src="https://img.shields.io/badge/-firebase-323330?style=for-the-badge&logo=firebase&logoColor=F0E68C" />
     <img src="https://img.shields.io/badge/-latex-090909?style=for-the-badge&logo=latex&logoColor=179BAE" />
     <img src="https://img.shields.io/badge/-obsidian-090909?style=for-the-badge&logo=obsidian&logoColor=A88BFA" />
@@ -15,8 +15,8 @@
 
 # ⚡ Frameworks
 <div align="left">
-    <img src="https://img.shields.io/badge/-qt-4535C1?style=for-the-badge&logo=qt&logoColor=00FF00" />
-    <img src="https://img.shields.io/badge/-android-20232A?style=for-the-badge&logo=android" />
+    <img src="https://img.shields.io/badge/-qt-4535C1?style=for-the-badge&logo=qt&labelColor=090909&logoColor=00FF00" />
+    <img src="https://img.shields.io/badge/-android-4535C1?style=for-the-badge&logo=android&labelColor=090909" />
 </div> <br />
 
 # 📲 Follow me
