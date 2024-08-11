@@ -31,5 +31,6 @@
 
 # 📊 Statistics
 <div align="left">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nepavellab&theme=dark" />
+    <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nepavellab&theme=dark" /> -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nepavellab&layout=compact&&langs_count=6" />
 </div>
