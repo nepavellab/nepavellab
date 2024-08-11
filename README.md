@@ -16,7 +16,7 @@
 # 👾 Frameworks
 <div align="left">
     <img src="https://img.shields.io/badge/-qt-4535C1?style=for-the-badge&logo=qt&logoColor=00FF00" />
-    <img src="https://img.shields.io/badge/-android-090909?style=for-the-badge&logo=android" />
+    <img src="https://img.shields.io/badge/-android-20232A?style=for-the-badge&logo=android" />
 </div> <br />
 
 # 📲 Follow me
