@@ -17,7 +17,7 @@
 <div align="left">
     <img src="https://img.shields.io/badge/-qt-4535C1?style=for-the-badge&logo=qt&labelColor=090909&logoColor=00FF00" />
     <img src="https://img.shields.io/badge/-android-4535C1?style=for-the-badge&logo=android&labelColor=090909" />
-    <img src="https://img.shields.io/badge/-{ jetpack compose }-C80036?style=for-the-badge&logo=jetpack" />
+    <img src="https://img.shields.io/badge/-jetpack compose-C80036?style=for-the-badge&logo=jetpack" />
 </div> <br />
 
 # 📲 Follow me
