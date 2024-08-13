@@ -14,10 +14,17 @@
     <img src="https://img.shields.io/badge/-obsidian-090909?style=for-the-badge&logo=obsidian&logoColor=A88BFA" />
 </div> <br />
 
-# ⚡ Frameworks
+# ⚡Frameworks
 <div align="left">
     <img src="https://img.shields.io/badge/-qt-4535C1?style=for-the-badge&logo=qt&labelColor=090909&logoColor=00FF00" />
     <img src="https://img.shields.io/badge/-android-4535C1?style=for-the-badge&logo=android&labelColor=090909" />
+</div> <br />
+
+# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" /> Python libraries
+<div align="left">
+    <img src="https://img.shields.io/badge/-numpy-090909?style=for-the-badge&logo=numpy&logoColor=4d77cf" />
+    <img src="https://img.shields.io/badge/-sympy-090909?style=for-the-badge&logo=sympy&logoColor=387F39" />
+    <img src="https://img.shields.io/badge/-scipy-090909?style=for-the-badge&logo=scipy" />
 </div> <br />
 
 # 📲 Follow me
