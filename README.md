@@ -32,7 +32,7 @@
 
 # 📊 Statistics
 <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nepavellab&theme=github_dark&font=Noto%20Sans" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nepavellab&theme=github_dark" />
 </div>
 
 <div align="left">
