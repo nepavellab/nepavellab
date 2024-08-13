@@ -32,9 +32,9 @@
 
 # 📊 Statistics
 <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nepavellab&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nepavellab&theme=github_dark" />
 </div>
 
-<div align="left">
+<!--<div align="left">
     <img src="https://leetcard.jacoblin.cool/GNU_nan0_machine_s0n?theme=dark">
-</div>
+</div>_-->
