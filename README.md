@@ -7,7 +7,8 @@
 
 # 🔧 Tools
 <div align="left">
-    <img src="https://img.shields.io/badge/-git-4535C1?style=for-the-badge&logo=git&labelColor=090909&logoColor=FF8C00" />
+    <img src="https://img.shields.io/badge/-git-4535C1?style=for-the-badge&logo=git&labelColor=090909" />
+    <img src="https://img.shields.io/badge/-gitlab-4535C1?style=for-the-badge&logo=gitlab&labelColor=090909" />
     <img src="https://img.shields.io/badge/-firebase-323330?style=for-the-badge&logo=firebase&logoColor=F0E68C" />
     <img src="https://img.shields.io/badge/-latex-090909?style=for-the-badge&logo=latex&logoColor=179BAE" />
     <img src="https://img.shields.io/badge/-obsidian-090909?style=for-the-badge&logo=obsidian&logoColor=A88BFA" />
@@ -17,7 +18,6 @@
 <div align="left">
     <img src="https://img.shields.io/badge/-qt-4535C1?style=for-the-badge&logo=qt&labelColor=090909&logoColor=00FF00" />
     <img src="https://img.shields.io/badge/-android-4535C1?style=for-the-badge&logo=android&labelColor=090909" />
-    <img src="https://img.shields.io/badge/-jetpack compose-C80036?style=for-the-badge&logo=jetpack" />
 </div> <br />
 
 # 📲 Follow me
