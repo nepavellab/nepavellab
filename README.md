@@ -36,5 +36,5 @@
 </div>
 
 <div align="left">
-    <img src="https://leetcard.jacoblin.cool/GNU_nan0_machine_s0n?theme=dark&font=Noto%20Sans">
+    <img src="https://leetcard.jacoblin.cool/GNU_nan0_machine_s0n?theme=github_dark">
 </div>
