@@ -32,6 +32,9 @@
 
 # 📊 Statistics
 <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nepavellab&theme=github_dark" />
-     <img src="https://leetcard.jacoblin.cool/GNU_nan0_machine_s0n?theme=dark&font=Noto%20Sans">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nepavellab&theme=github_dark&font=Noto%20Sans" />
+</div>
+
+<div align="left">
+    <img src="https://leetcard.jacoblin.cool/GNU_nan0_machine_s0n?theme=dark&font=Noto%20Sans">
 </div>
