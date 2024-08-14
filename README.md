@@ -38,9 +38,15 @@
                 <img src="https://img.shields.io/badge/-obsidian-090909?style=for-the-badge&logo=obsidian&logoColor=A88BFA" />
             </td>
         </tr>
+    </table>
+</div> <br />
+
+# 👾 Technologies
+<div align="left">
+    <table>
         <tr>
-            <td> <!--CMake-->
-                <img src="https://img.shields.io/badge/-cmake-090909?style=for-the-badge&logo=cmake&logoColor=C80036" />
+            <td> <!--Linux-->
+                <img src="https://img.shields.io/badge/-linux-090909?style=for-the-badge&logo=linux" />
             </td>
             <td> <!--Firebase-->
                 <img src="https://img.shields.io/badge/-firebase-323330?style=for-the-badge&logo=firebase&logoColor=F0E68C" />
