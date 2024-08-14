@@ -43,7 +43,7 @@
         </tr>
         <tr>
             <td>
-                <img src="https://img.shields.io/badge/-cmake-090909?style=for-the-badge&logo=cmakee&logoColor=C80036" />
+                <img src="https://img.shields.io/badge/-cmake-090909?style=for-the-badge&logo=cmake&logoColor=C80036" />
             </td>
             <td>
                 <img src="https://img.shields.io/badge/-firebase-323330?style=for-the-badge&logo=firebase&logoColor=F0E68C" />
