@@ -90,7 +90,8 @@
     <a href="https://t.me/Nep_pasha/">
         <img src="https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram" />
     </a>
-    <a href="(https://vk.com/ne__pavel">
+    <!--VK-->
+    <a href="https://vk.com/ne__pavel">
         <img src="https://img.shields.io/badge/-вконтакте-090909?style=for-the-badge&logo=vk&logoColor=4680C2" />
     </a>
     <!--LeetCode-->
