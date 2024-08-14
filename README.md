@@ -105,7 +105,8 @@
             </td>
         </tr>
     </table>
-</div>
+</div> <br />
+<!--
 <div align="left">
     <table>
         <tr>
@@ -117,7 +118,7 @@
             </td>
         </tr>
     </table>
-</div> <br />
+</div> <br /> -->
 
 # 📲 Follow me
 <div align="left">
