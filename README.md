@@ -1,7 +1,7 @@
 # ℹ️ Some information about me
 - **BMSTU math & CS student** 🎓
 - **4+ years of programming experience** ⚡
-- **The IT field of interest is Android development** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="15" />
+- **The IT field of interest is Android development** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" width="15"/>
 <br />
 
 # 💻 Workspace
