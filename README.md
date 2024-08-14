@@ -90,7 +90,12 @@
             </td>
         </tr>
     </table>
-</div>
+</div> <br />
+
+# 📊 Statistics
+<div align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nepavellab&theme=github_dark" />
+</div> <br /> <br />
 
 # 📲 Follow me
 <div align="left">
@@ -113,11 +118,6 @@
             </td>
         </tr>
     </table>
-</div> <br />
-
-# 📊 Statistics
-<div align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nepavellab&theme=github_dark" />
 </div> <br />
 
 <!--# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/thealgorithms/thealgorithms-original.svg" width="30" /> Algorithmic trainings
