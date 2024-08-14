@@ -2,9 +2,6 @@
 - **BMSTU math & CS studen**
 - **4+ years of programming experience**
 - **The IT field of interest is Android development**
-- **Languages:**
-    - :ru:
-    - :en:
 <br />
 
 # 💻 Programming languages
