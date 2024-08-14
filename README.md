@@ -1,7 +1,7 @@
 # ℹ️ Some information about me
 - **BMSTU math & CS student** 🎓
 - **4+ years of programming experience**
-- **The IT field of interest is Android development**
+- **The IT field of interest is Android development** <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" width="15" />
 <br />
 
 # 💻 Programming languages
@@ -19,7 +19,7 @@
             </td>
         </tr>
     </table>
-</div><br />
+</div>
 
 # 🔧 Development tools
 <div align="left">
@@ -39,7 +39,7 @@
             </td>
         </tr>
     </table>
-</div> <br />
+</div>
 
 # 👾 Technologies
 <div align="left">
@@ -59,7 +59,7 @@
             </td>
         </tr>
     </table>
-</div> <br />
+</div>
 
 # ⚡Frameworks
 <div align="left">
@@ -73,7 +73,7 @@
             </td>
         </tr>
     </table>
-</div> <br />
+</div>
 
 # <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30" /> Python libraries
 <div align="left">
@@ -90,7 +90,7 @@
             </td>
         </tr>
     </table>
-</div> <br />
+</div>
 
 # 📲 Follow me
 <div align="left">
@@ -113,13 +113,14 @@
             </td>
         </tr>
     </table>
-</div>
+</div> <br />
 
 # 📊 Statistics
 <div align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nepavellab&theme=github_dark" />
-</div>
+</div> <br />
 
-<!--<div align="left">
+<!--# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/thealgorithms/thealgorithms-original.svg" width="30" /> Algorithmic trainings
+<div align="left">
     <img src="https://leetcard.jacoblin.cool/GNU_nan0_machine_s0n?theme=dark">
-</div>_-->
+</div>-->
