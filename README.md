@@ -1,6 +1,6 @@
 # ℹ️ Some information about me
 - **BMSTU math & CS studen**
-- **4+ yearsof programming experience**
+- **4+ years of programming experience**
 - **The IT field of interest is Android development**
 - **Languages:**
     - :ru:
