@@ -95,7 +95,7 @@
 # 📊 Statistics
 <div align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nepavellab&theme=github_dark" />
-</div> <br />
+</div> <br /> <br />
 
 <!--# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/thealgorithms/thealgorithms-original.svg" width="30" /> Algorithmic trainings
 <div align="left">
@@ -103,7 +103,7 @@
 </div>-->
 
 # 📲 Follow me
-<div align="center">
+<div align="left">
     <table>
         <tr>
             <td> <!--Telegram-->
