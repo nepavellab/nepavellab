@@ -4,7 +4,7 @@
 - **The IT field of interest is Android development**
 - **Languages:**
     - :ru:
-    - :us: **English**
+    - :en:
 <br />
 
 # 💻 Programming languages
