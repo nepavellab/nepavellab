@@ -7,19 +7,12 @@
 # 💻 Workspace
 ### Programming languages
 <div align="left">
-    <table>
-        <tr>
-            <td> <!--Python-->
-                <img src="https://img.shields.io/badge/-python-3776AB?style=for-the-badge&labelColor=090909&logo=python&logoColor=06D001"/>
-            </td>
-            <td> <!--C++-->
-                <img src="https://img.shields.io/badge/-C++-3776AB?style=for-the-badge&labelColor=090909&logo=C%2b%2b&logoColor=10439F" />
-            </td>
-            <td> <!--Kotlin-->
-                <img src="https://img.shields.io/badge/-kotlin-3776AB?style=for-the-badge&labelColor=090909&logo=kotlin&logoColor=B125EA" />
-            </td>
-        </tr>
-    </table>
+    <!--Python-->
+    <img src="https://img.shields.io/badge/-python-3776AB?style=for-the-badge&labelColor=090909&logo=python&logoColor=06D001"/>
+    <!--C++-->
+    <img src="https://img.shields.io/badge/-C++-3776AB?style=for-the-badge&labelColor=090909&logo=C%2b%2b&logoColor=10439F" />
+    <!--Kotlin-->
+    <img src="https://img.shields.io/badge/-kotlin-3776AB?style=for-the-badge&labelColor=090909&logo=kotlin&logoColor=B125EA" />
 </div>
 
 ### Development tools
