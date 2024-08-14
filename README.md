@@ -95,10 +95,15 @@
 # 📊 Statistics
 <div align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nepavellab&theme=github_dark" />
-</div> <br /> <br />
+</div> <br />
+
+<!--# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/thealgorithms/thealgorithms-original.svg" width="30" /> Algorithmic trainings
+<div align="left">
+    <img src="https://leetcard.jacoblin.cool/GNU_nan0_machine_s0n?theme=dark">
+</div>-->
 
 # 📲 Follow me
-<div align="left">
+<div align="center">
     <table>
         <tr>
             <td> <!--Telegram-->
@@ -119,8 +124,3 @@
         </tr>
     </table>
 </div> <br />
-
-<!--# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/thealgorithms/thealgorithms-original.svg" width="30" /> Algorithmic trainings
-<div align="left">
-    <img src="https://leetcard.jacoblin.cool/GNU_nan0_machine_s0n?theme=dark">
-</div>-->
