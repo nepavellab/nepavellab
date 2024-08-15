@@ -107,8 +107,8 @@
     <a href="https://www.hackerrank.com/profile/trudi2004">
         <img src="https://img.shields.io/badge/-hackerrank-090909?style=for-the-badge&logo=hackerrank" />
     </a>
-    <!--MAIL-->
+    <!--MAIL
     <a href="https://www.hackerrank.com/profile/trudi2004">
-        <img src="https://img.shields.io/badge/-trudi2004@yandex.ru-090909?style=for-the-badge&logo=gmail" />
-    </a>
+        <img src="https://img.shields.io/badge/-address-090909?style=for-the-badge&logo=gmail" />
+    </a>-->
 </div>
