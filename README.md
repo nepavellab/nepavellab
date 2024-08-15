@@ -8,19 +8,19 @@
 ### Programming languages
 <div align="left">
     <!--Python-->
-    <img src="https://img.shields.io/badge/-python-3776AB?style=for-the-badge&labelColor=090909&logo=python&logoColor=06D001"/>
+    <img src="https://img.shields.io/badge/-python-4535C1?style=for-the-badge&labelColor=090909&logo=python&logoColor=06D001"/>
     <!--C++-->
-    <img src="https://img.shields.io/badge/-C++-3776AB?style=for-the-badge&labelColor=090909&logo=C%2b%2b&logoColor=10439F" />
+    <img src="https://img.shields.io/badge/-C++-4535C1?style=for-the-badge&labelColor=090909&logo=C%2b%2b&logoColor=10439F" />
     <!--Kotlin-->
-    <img src="https://img.shields.io/badge/-kotlin-3776AB?style=for-the-badge&labelColor=090909&logo=kotlin&logoColor=B125EA" />
+    <img src="https://img.shields.io/badge/-kotlin-4535C1?style=for-the-badge&labelColor=090909&logo=kotlin&logoColor=B125EA" />
 </div>
 
 ### Development tools
 <div align="left">
     <!--GIT-->
-    <img src="https://img.shields.io/badge/-git-4535C1?style=for-the-badge&logo=git&labelColor=090909" />
+    <img src="https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git" />
     <!--Gitlab-->
-    <img src="https://img.shields.io/badge/-gitlab-4535C1?style=for-the-badge&logo=gitlab&labelColor=090909" />
+    <img src="https://img.shields.io/badge/-gitlab-090909?style=for-the-badge&logo=gitlab" />
     <!--Github-->
     <img src="https://img.shields.io/badge/-github-white?style=for-the-badge&logo=github&labelColor=090909">
     <!--Vim
@@ -46,9 +46,9 @@
 ### Frameworks
 <div align="left">
     <!--Qt-->
-    <img src="https://img.shields.io/badge/-qt-4535C1?style=for-the-badge&logo=qt&labelColor=090909&logoColor=00FF00" />
+    <img src="https://img.shields.io/badge/-qt-090909?style=for-the-badge&logo=qt&logoColor=00FF00" />
     <!--Android-->
-    <img src="https://img.shields.io/badge/-android-4535C1?style=for-the-badge&logo=android&labelColor=090909" />
+    <img src="https://img.shields.io/badge/-android-090909?style=for-the-badge&logo=android" />
 </div>
 
 ### Python libraries
