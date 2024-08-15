@@ -37,14 +37,14 @@
     <img src="https://img.shields.io/badge/-firebase-090909?style=for-the-badge&logo=firebase&labelColor=F6E96B&logoColor=090909" />
     <!--LaTeX-->
     <img src="https://img.shields.io/badge/-latex-090909?style=for-the-badge&logo=latex&logoColor=179BAE" />
+    <!--Android-->
+    <img src="https://img.shields.io/badge/-android-090909?style=for-the-badge&logo=android" />
 </div>
 
 ### Frameworks
 <div align="left">
     <!--Qt-->
     <img src="https://img.shields.io/badge/-qt-090909?style=for-the-badge&logo=qt&logoColor=00FF00" />
-    <!--Android-->
-    <img src="https://img.shields.io/badge/-android-090909?style=for-the-badge&logo=android" />
     <!--Android-->
     <img src="https://img.shields.io/badge/-jetpack_compose-090909?style=for-the-badge&logo=jetpackcompose" />
 </div>
