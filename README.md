@@ -66,7 +66,7 @@
     <table>
         <tr>
             <td>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="150"/>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="120"/>
             </td>
             <td>
                 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nepavellab&theme=github_dark" />
@@ -81,7 +81,6 @@
             </td>
         </tr>-->
     </table>
-</div> <br />
 
 # 📲 Follow me
 <div align="left">
