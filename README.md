@@ -32,7 +32,7 @@
 ### Technologies
 <div align="left">
     <!--Linux-->
-    <img src="https://img.shields.io/badge/-linux-090909?style=for-the-badge&logo=linux&logoColor=C80036&labelColor=white" />
+    <img src="https://img.shields.io/badge/-linux-090909?style=for-the-badge&logo=linux&logoColor=090909&labelColor=FF9100" />
     <!--Firebase-->
     <img src="https://img.shields.io/badge/-firebase-090909?style=for-the-badge&logo=firebase&labelColor=F6E96B&logoColor=090909" />
     <!--Markdown-->
