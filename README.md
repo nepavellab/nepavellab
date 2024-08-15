@@ -25,8 +25,6 @@
     <img src="https://img.shields.io/badge/-github-white?style=for-the-badge&logo=github&labelColor=090909">
     <!--Vim
     <img src="https://img.shields.io/badge/-Vim-019733.svg?style=for-the-badge&logo=vim&logoColor=white" />-->
-    <!--Android Studio
-    <img src="https://img.shields.io/badge/-android_studio-090909?style=for-the-badge&logo=androidstudio&labelColor=4535C1">-->
 </div>
 
 ### Technologies
@@ -64,20 +62,28 @@
 # 📊 Statistics
 <div align="left">
     <table>
-        <tr>
+        <tr> <!--Language statistics-->
             <td>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="120"/>
             </td>
             <td>
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nepavellab&theme=github_dark" />
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nepavellab&langs_count=4&theme=github_dark" width="400"/>
             </td>
         </tr>
-        <!--<tr>
+        <tr> <!--Github activity statistics-->
             <td>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/thealgorithms/thealgorithms-original-wordmark.svg" width="150" />
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="120"/>
             </td>
             <td>
-                <img src="https://leetcard.jacoblin.cool/GNU_nan0_machine_s0n?theme=dark" width="400"/>
+                <img src="https://github-readme-stats.vercel.app/api?username=nepavellab&show_icons=true&theme=dark" width="400"/>
+            </td>
+        </tr>
+        <!--<tr> Algorithm statistics
+            <td>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/thealgorithms/thealgorithms-original-wordmark.svg" width="120" />
+            </td>
+            <td>
+                <img src="https://leetcard.jacoblin.cool/GNU_nan0_machine_s0n?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="400"/>
             </td>
         </tr>-->
     </table>
