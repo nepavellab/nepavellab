@@ -4,7 +4,7 @@
 - **The IT field of interest is Android development**
 <br />
 
-# Workspace <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="20" height="20" />
+# <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="20" height="20" /> Workspace
 
 ### Programming languages
 <div align="left">
