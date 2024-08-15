@@ -44,7 +44,7 @@
 <div align="left">
     <!--Qt-->
     <img src="https://img.shields.io/badge/-qt-090909?style=for-the-badge&logo=qt&logoColor=00FF00" />
-    <!--Android-->
+    <!--Jetpack Compose-->
     <img src="https://img.shields.io/badge/-jetpack_compose-090909?style=for-the-badge&logo=jetpackcompose" />
 </div>
 
@@ -109,7 +109,7 @@
         <img src="https://img.shields.io/badge/-hackerrank-090909?style=for-the-badge&logo=hackerrank" />
     </a>
     <!--MAIL
-    <a href="https://www.hackerrank.com/profile/trudi2004">
+    <a href="">
         <img src="https://img.shields.io/badge/-address-090909?style=for-the-badge&logo=gmail" />
     </a>-->
 </div>
