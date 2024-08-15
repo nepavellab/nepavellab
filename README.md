@@ -36,9 +36,13 @@
 ### Technologies
 <div align="left">
     <!--Linux-->
-    <img src="https://img.shields.io/badge/-linux-090909?style=for-the-badge&logo=linux" />
+    <img src="https://img.shields.io/badge/-linux-090909?style=for-the-badge&logo=linux&logoColor=C80036&labelColor=white" />
     <!--Firebase-->
-    <img src="https://img.shields.io/badge/-firebase-090909?style=for-the-badge&logo=firebase&logoColor=F0E68C" />
+    <img src="https://img.shields.io/badge/-firebase-090909?style=for-the-badge&logo=firebase&labelColor=F6E96B&logoColor=090909" />
+    <!--Markdown-->
+    <img src="https://img.shields.io/badge/-markdown-090909?style=for-the-badge&logo=markdown&logoColor=090909&labelColor=A88BFA" />
+</div>
+<div align="left">
     <!--LaTeX-->
     <img src="https://img.shields.io/badge/-latex-090909?style=for-the-badge&logo=latex&logoColor=179BAE" />
     <!--Jupyter-->
