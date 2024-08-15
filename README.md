@@ -72,14 +72,14 @@
                 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nepavellab&theme=github_dark" />
             </td>
         </tr>
-        <tr>
+        <!--<tr>
             <td>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/thealgorithms/thealgorithms-original-wordmark.svg" width="150" />
             </td>
             <td>
                 <img src="https://leetcard.jacoblin.cool/GNU_nan0_machine_s0n?theme=dark" width="400"/>
             </td>
-        </tr>
+        </tr>-->
     </table>
 </div> <br />
 
