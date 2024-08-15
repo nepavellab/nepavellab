@@ -1,6 +1,6 @@
 # ℹ️ Some information about me
 - **BMSTU math & CS student** 🎓
-- **4+ years of programming experience** ⚡
+- **4+ years of non-commercial programming experience** ⚡
 - **The IT field of interest is Android development**
 <br />
 
