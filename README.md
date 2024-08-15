@@ -99,10 +99,10 @@
     <a href="https://vk.com/ne__pavel">
         <img src="https://img.shields.io/badge/-вконтакте-090909?style=for-the-badge&logo=vk&logoColor=4680C2" />
     </a>
-    <!--LeetCode-->
+    <!--LeetCode
     <a href="https://leetcode.com/u/GNU_nan0_machine_s0n/">
         <img src="https://img.shields.io/badge/-leetcode-090909?style=for-the-badge&logo=leetcode" />
-    </a>
+    </a>-->
     <!--HackerRank-->
     <a href="https://www.hackerrank.com/profile/trudi2004">
         <img src="https://img.shields.io/badge/-hackerrank-090909?style=for-the-badge&logo=hackerrank" />
