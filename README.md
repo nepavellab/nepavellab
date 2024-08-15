@@ -23,13 +23,11 @@
     <img src="https://img.shields.io/badge/-gitlab-4535C1?style=for-the-badge&logo=gitlab&labelColor=090909" />
     <!--Github-->
     <img src="https://img.shields.io/badge/-github-white?style=for-the-badge&logo=github&labelColor=090909">
-</div>
-<div align="left">
     <!--Vim-->
     <img src="https://img.shields.io/badge/-Vim-019733.svg?style=for-the-badge&logo=vim&logoColor=white" />
     <!--Android Studio-->
     <img src="https://img.shields.io/badge/-android_studio-white?style=for-the-badge&logo=androidstudio&labelColor=4535C1">
-<div>
+</div>
 
 ### Technologies
 <div align="left">
@@ -39,8 +37,6 @@
     <img src="https://img.shields.io/badge/-firebase-090909?style=for-the-badge&logo=firebase&labelColor=F6E96B&logoColor=090909" />
     <!--Markdown-->
     <img src="https://img.shields.io/badge/-markdown-090909?style=for-the-badge&logo=markdown&logoColor=090909&labelColor=A88BFA" />
-</div>
-<div align="left">
     <!--LaTeX-->
     <img src="https://img.shields.io/badge/-latex-090909?style=for-the-badge&logo=latex&logoColor=179BAE" />
     <!--Jupyter-->
