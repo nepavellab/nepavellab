@@ -72,11 +72,6 @@
                 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nepavellab&theme=github_dark" />
             </td>
         </tr>
-    </table>
-</div> <br />
-<!--
-<div align="left">
-    <table>
         <tr>
             <td>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/thealgorithms/thealgorithms-original-wordmark.svg" width="150" />
@@ -86,7 +81,7 @@
             </td>
         </tr>
     </table>
-</div> <br /> -->
+</div> <br />
 
 # 📲 Follow me
 <div align="left">
