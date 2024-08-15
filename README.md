@@ -1,6 +1,3 @@
-# Welcome to my Github profile <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" width="25" height="25">
-<br />
-
 # ℹ️ Some information about me
 - **BMSTU math & CS student** 🎓
 - **4+ years of non-commercial programming experience** ⚡
