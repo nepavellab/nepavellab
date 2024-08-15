@@ -67,7 +67,7 @@
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="120"/>
             </td>
             <td>
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nepavellab&langs_count=4&theme=github_dark" width="400"/>
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nepavellab&langs_count=3&theme=github_dark" width="400"/>
             </td>
         </tr>
         <tr> <!--Github activity statistics-->
