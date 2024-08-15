@@ -25,8 +25,8 @@
     <img src="https://img.shields.io/badge/-github-white?style=for-the-badge&logo=github&labelColor=090909">
     <!--Vim
     <img src="https://img.shields.io/badge/-Vim-019733.svg?style=for-the-badge&logo=vim&logoColor=white" />-->
-    <!--Android Studio-->
-    <img src="https://img.shields.io/badge/-android_studio-090909?style=for-the-badge&logo=androidstudio&labelColor=4535C1">
+    <!--Android Studio
+    <img src="https://img.shields.io/badge/-android_studio-090909?style=for-the-badge&logo=androidstudio&labelColor=4535C1">-->
 </div>
 
 ### Technologies
@@ -35,12 +35,8 @@
     <img src="https://img.shields.io/badge/-linux-090909?style=for-the-badge&logo=linux&logoColor=090909&labelColor=FF9100" />
     <!--Firebase-->
     <img src="https://img.shields.io/badge/-firebase-090909?style=for-the-badge&logo=firebase&labelColor=F6E96B&logoColor=090909" />
-    <!--Markdown-->
-    <img src="https://img.shields.io/badge/-markdown-090909?style=for-the-badge&logo=markdown&logoColor=090909&labelColor=A88BFA" />
     <!--LaTeX-->
     <img src="https://img.shields.io/badge/-latex-090909?style=for-the-badge&logo=latex&logoColor=179BAE" />
-    <!--Jupyter-->
-    <img src="https://img.shields.io/badge/-jupyter-090909?style=for-the-badge&logo=jupyter" />
 </div>
 
 ### Frameworks
@@ -49,6 +45,8 @@
     <img src="https://img.shields.io/badge/-qt-090909?style=for-the-badge&logo=qt&logoColor=00FF00" />
     <!--Android-->
     <img src="https://img.shields.io/badge/-android-090909?style=for-the-badge&logo=android" />
+    <!--Android-->
+    <img src="https://img.shields.io/badge/-jetpack_compose-090909?style=for-the-badge&logo=jetpackcompose" />
 </div>
 
 ### Python libraries
@@ -59,6 +57,8 @@
     <img src="https://img.shields.io/badge/-sympy-090909?style=for-the-badge&logo=sympy&logoColor=387F39" />    
     <!--scipy-->
     <img src="https://img.shields.io/badge/-scipy-090909?style=for-the-badge&logo=scipy" />
+    <!--Jupyter-->
+    <img src="https://img.shields.io/badge/-jupyter-090909?style=for-the-badge&logo=jupyter" />
 </div> <br />
 
 # 📊 Statistics
