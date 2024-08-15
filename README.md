@@ -23,9 +23,15 @@
     <img src="https://img.shields.io/badge/-gitlab-4535C1?style=for-the-badge&logo=gitlab&labelColor=090909" />
     <!--Github-->
     <img src="https://img.shields.io/badge/-github-white?style=for-the-badge&logo=github&labelColor=090909">
+</div>
+<div align="left">
+    <!--Vim-->
+    <img src="https://img.shields.io/badge/-Vim-019733.svg?style=for-the-badge&logo=vim&logoColor=white" />
+    <!--Android Studio-->
+    <img src="https://img.shields.io/badge/-android_studio-090909?style=for-the-badge&logo=androidstudio&labelColor=4535C1">
     <!--Obsidian-->
     <img src="https://img.shields.io/badge/-obsidian-090909?style=for-the-badge&logo=obsidian&logoColor=A88BFA" />
-</div>
+<div>
 
 ### Technologies
 <div align="left">
