@@ -29,8 +29,6 @@
     <img src="https://img.shields.io/badge/-Vim-019733.svg?style=for-the-badge&logo=vim&logoColor=white" />
     <!--Android Studio-->
     <img src="https://img.shields.io/badge/-android_studio-white?style=for-the-badge&logo=androidstudio&labelColor=4535C1">
-    <!--Obsidian-->
-    <img src="https://img.shields.io/badge/-obsidian-090909?style=for-the-badge&logo=obsidian&logoColor=A88BFA" />
 <div>
 
 ### Technologies
