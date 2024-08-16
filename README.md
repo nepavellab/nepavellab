@@ -58,6 +58,8 @@
     <img src="https://img.shields.io/badge/-scipy-090909?style=for-the-badge&logo=scipy" />
     <!--Jupyter-->
     <img src="https://img.shields.io/badge/-jupyter-090909?style=for-the-badge&logo=jupyter" />
+    <!--Django
+    <img src="https://img.shields.io/badge/-django-090909?style=for-the-badge&logo=django&logoColor=00712D" />-->
 </div> <br />
 
 # 📊 Statistics
