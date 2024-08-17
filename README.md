@@ -9,11 +9,11 @@
 ### Programming languages
 <div align="left">
     <!--Python-->
-    <img src="https://img.shields.io/badge/-python-4535C1?style=for-the-badge&labelColor=090909&logo=python&logoColor=06D001"/>
+    <img src="https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python&logoColor=06D001"/>
     <!--C++-->
-    <img src="https://img.shields.io/badge/-C++-4535C1?style=for-the-badge&labelColor=090909&logo=C%2b%2b&logoColor=10439F" />
+    <img src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&labelColor=white&logo=C%2b%2b&logoColor=10439F" />
     <!--Kotlin-->
-    <img src="https://img.shields.io/badge/-kotlin-4535C1?style=for-the-badge&labelColor=090909&logo=kotlin&logoColor=B125EA" />
+    <img src="https://img.shields.io/badge/-kotlin-090909?style=for-the-badge&logo=kotlin&logoColor=B125EA" />
 </div>
 
 ### Development tools
