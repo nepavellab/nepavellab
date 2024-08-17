@@ -1,10 +1,10 @@
-# ℹ️ Some information about me
+# <img src="https://img.shields.io/badge/Some_information_about_me-E72929" width="250"/>
 - **BMSTU math & CS student** 🎓
 - **4+ years of non-commercial programming experience** ⚡
 - **The IT field of interest is Android development**
 <br />
 
-# <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="20" height="20" /> Workspace
+# <img src="https://img.shields.io/badge/Workspace-E72929" width="120"/>
 
 ### Programming languages
 <div align="left">
@@ -63,7 +63,7 @@
     <img src="https://img.shields.io/badge/-scipy-090909?style=for-the-badge&logo=scipy" />
 </div> <br />-->
 
-# 📊 Statistics
+# <img src="https://img.shields.io/badge/Statistics-E72929" width="100"/>
 <div align="left">
     <table>
         <tr> <!--Language statistics-->
@@ -93,7 +93,7 @@
     </table>
 </div> <br />
 
-# 📲 Follow me
+# <img src="https://img.shields.io/badge/Follow_me-E72929" width="100"/>
 <div align="left">
     <!--Telegram-->
     <a href="https://t.me/Nep_pasha/">
