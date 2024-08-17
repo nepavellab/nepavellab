@@ -97,11 +97,11 @@
 <div align="left">
     <!--Telegram-->
     <a href="https://t.me/Nep_pasha/">
-        <img src="https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram" width="150"/>
+        <img src="https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram"/>
     </a>
     <!--VK-->
     <a href="https://vk.com/ne__pavel">
-        <img src="https://img.shields.io/badge/-вконтакте-090909?style=for-the-badge&logo=vk&logoColor=4680C2" width="150"/>
+        <img src="https://img.shields.io/badge/-вконтакте-090909?style=for-the-badge&logo=vk&logoColor=4680C2"/>
     </a>
     <!--LeetCode
     <a href="https://leetcode.com/u/GNU_nan0_machine_s0n/">
