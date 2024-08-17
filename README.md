@@ -38,6 +38,8 @@
     <img src="https://img.shields.io/badge/-latex-090909?style=for-the-badge&logo=latex&logoColor=179BAE" />
     <!--Android-->
     <img src="https://img.shields.io/badge/-android-090909?style=for-the-badge&logo=android" />
+    <!--Jupyter-->
+    <img src="https://img.shields.io/badge/-jupyter-090909?style=for-the-badge&logo=jupyter" />
 </div>
 
 ### Frameworks
@@ -55,7 +57,6 @@
     <img src="https://img.shields.io/badge/-numpy-090909?style=for-the-badge&logo=numpy&logoColor=4d77cf" />
     <img src="https://img.shields.io/badge/-sympy-090909?style=for-the-badge&logo=sympy&logoColor=387F39" />    
     <img src="https://img.shields.io/badge/-scipy-090909?style=for-the-badge&logo=scipy" />
-    <img src="https://img.shields.io/badge/-jupyter-090909?style=for-the-badge&logo=jupyter" />
 </div> <br />-->
 
 # 📊 Statistics
