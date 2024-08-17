@@ -1,6 +1,6 @@
 # <img src="https://img.shields.io/badge/Some_information_about_me-E72929" width="250"/>
-- **BMSTU math & CS student** 🎓
-- **4+ years of non-commercial programming experience** ⚡
+- **BMSTU math & CS student**
+- **4+ years of non-commercial programming experience**
 - **The IT field of interest is Android development**
 <br />
 
