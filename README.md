@@ -41,6 +41,10 @@
     <!--Jupyter-->
     <img src="https://img.shields.io/badge/-jupyter-090909?style=for-the-badge&logo=jupyter" />
 </div>
+<div  align="left">
+    <!--Obsidian-->
+    <img src="https://img.shields.io/badge/-obsidian-090909?style=for-the-badge&logo=obsidian&logoColor=8B5CF6" />
+</div>
 
 ### Frameworks
 <div align="left">
