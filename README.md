@@ -50,7 +50,7 @@
     <img src="https://img.shields.io/badge/-jetpack_compose-090909?style=for-the-badge&logo=jetpackcompose" />
     <!--Django-->
     <img src="https://img.shields.io/badge/-django-090909?style=for-the-badge&logo=django&logoColor=00712D" />
-</div>
+</div> <br />
 
 <!--### Python libraries
 <div align="left">
