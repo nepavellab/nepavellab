@@ -93,20 +93,20 @@
 <div align="left">
     <!--Telegram-->
     <a href="https://t.me/Nep_pasha/">
-        <img src="https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram" />
+        <img src="https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram" width="150"/>
     </a>
     <!--VK-->
     <a href="https://vk.com/ne__pavel">
-        <img src="https://img.shields.io/badge/-вконтакте-090909?style=for-the-badge&logo=vk&logoColor=4680C2" />
+        <img src="https://img.shields.io/badge/-вконтакте-090909?style=for-the-badge&logo=vk&logoColor=4680C2" width="150"/>
     </a>
     <!--LeetCode
     <a href="https://leetcode.com/u/GNU_nan0_machine_s0n/">
         <img src="https://img.shields.io/badge/-leetcode-090909?style=for-the-badge&logo=leetcode" />
     </a>-->
-    <!--HackerRank-->
+    <!--HackerRank
     <a href="https://www.hackerrank.com/profile/trudi2004">
         <img src="https://img.shields.io/badge/-hackerrank-090909?style=for-the-badge&logo=hackerrank" />
-    </a>
+    </a>-->
     <!--MAIL
     <a href="">
         <img src="https://img.shields.io/badge/-address-090909?style=for-the-badge&logo=gmail" />
