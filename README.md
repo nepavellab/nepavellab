@@ -52,13 +52,9 @@
 
 <!--### Python libraries
 <div align="left">
-    <!--numpy-->
     <img src="https://img.shields.io/badge/-numpy-090909?style=for-the-badge&logo=numpy&logoColor=4d77cf" />
-    <!--sympy-->
     <img src="https://img.shields.io/badge/-sympy-090909?style=for-the-badge&logo=sympy&logoColor=387F39" />    
-    <!--scipy-->
     <img src="https://img.shields.io/badge/-scipy-090909?style=for-the-badge&logo=scipy" />
-    <!--Jupyter-->
     <img src="https://img.shields.io/badge/-jupyter-090909?style=for-the-badge&logo=jupyter" />
 </div> <br />-->
 
