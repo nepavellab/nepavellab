@@ -48,8 +48,8 @@
     <img src="https://img.shields.io/badge/-qt-090909?style=for-the-badge&logo=qt&logoColor=00FF00" />
     <!--Jetpack Compose-->
     <img src="https://img.shields.io/badge/-jetpack_compose-090909?style=for-the-badge&logo=jetpackcompose" />
-    <!--Django-->
-    <img src="https://img.shields.io/badge/-django-090909?style=for-the-badge&logo=django&logoColor=00712D" />
+    <!--Django
+    <img src="https://img.shields.io/badge/-django-090909?style=for-the-badge&logo=django&logoColor=00712D" />-->
 </div> <br />
 
 <!--### Python libraries
