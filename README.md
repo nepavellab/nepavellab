@@ -56,13 +56,6 @@
     <img src="https://img.shields.io/badge/-django-090909?style=for-the-badge&logo=django&logoColor=00712D" />-->
 </div> <br />
 
-<!--### Python libraries
-<div align="left">
-    <img src="https://img.shields.io/badge/-numpy-090909?style=for-the-badge&logo=numpy&logoColor=4d77cf" />
-    <img src="https://img.shields.io/badge/-sympy-090909?style=for-the-badge&logo=sympy&logoColor=387F39" />    
-    <img src="https://img.shields.io/badge/-scipy-090909?style=for-the-badge&logo=scipy" />
-</div> <br />-->
-
 # <img src="https://img.shields.io/badge/Statistics-E72929" width="100"/>
 <div align="left">
     <table>
@@ -82,14 +75,14 @@
                 <img src="https://github-readme-stats.vercel.app/api?username=nepavellab&show_icons=true&theme=dark" width="400"/>
             </td>
         </tr>
-        <!--<tr> Algorithm statistics
+        <tr> <!--Algorithm statistics-->
             <td>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/thealgorithms/thealgorithms-original-wordmark.svg" width="120" />
             </td>
             <td>
                 <img src="https://leetcard.jacoblin.cool/GNU_nan0_machine_s0n?theme=dark&font=JetBrains%20Mono&ext=heatmap" width="400"/>
             </td>
-        </tr>-->
+        </tr>
     </table>
 </div> <br />
 
