@@ -12,8 +12,8 @@
     <img src="https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python&logoColor=06D001"/>
     <!--C++-->
     <img src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&labelColor=white&logo=C%2b%2b&logoColor=10439F" />
-    <!--Kotlin-->
-    <img src="https://img.shields.io/badge/-kotlin-090909?style=for-the-badge&logo=kotlin&logoColor=B125EA" />
+    <!--Kotlin
+    <img src="https://img.shields.io/badge/-kotlin-090909?style=for-the-badge&logo=kotlin&logoColor=B125EA" />-->
 </div>
 
 ### Development tools
@@ -50,8 +50,8 @@
 <div align="left">
     <!--Qt-->
     <img src="https://img.shields.io/badge/-qt-090909?style=for-the-badge&logo=qt&logoColor=00FF00" />
-    <!--Jetpack Compose-->
-    <img src="https://img.shields.io/badge/-jetpack_compose-090909?style=for-the-badge&logo=jetpackcompose" />
+    <!--Jetpack Compose
+    <img src="https://img.shields.io/badge/-jetpack_compose-090909?style=for-the-badge&logo=jetpackcompose" />-->
     <!--Django
     <img src="https://img.shields.io/badge/-django-090909?style=for-the-badge&logo=django&logoColor=00712D" />-->
 </div> <br />
