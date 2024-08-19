@@ -1,49 +1,29 @@
-# <img src="https://img.shields.io/badge/Some_information_about_me-E72929" width="280"/>
+# <img src="https://img.shields.io/badge/Some_information_about_me-0174BE" width="280"/>
 - **BMSTU math & CS student**
 - **4+ years of non-commercial programming experience**
 - **The IT field of interest is Android development**
-  
-### See my C++ labs & projects here:
-<a href="https://virtual.fn11.bmstu.ru/student-gitlab/dashboard/projects">
-    <img src="https://img.shields.io/badge/-gitlab-090909?style=for-the-badge&logo=gitlab" width="150"/>
-</a> <br /> <br />
 
-<!-- # <img src="https://img.shields.io/badge/Workspace-E72929" width="120"/>
-
-### Programming languages
 <div align="left">
-    <img src="https://img.shields.io/badge/-python-090909?style=for-the-badge&logo=python&logoColor=06D001"/>
-    <img src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&labelColor=white&logo=C%2b%2b&logoColor=10439F" />
-    <img src="https://img.shields.io/badge/-kotlin-090909?style=for-the-badge&logo=kotlin&logoColor=B125EA" />
-</div>
+    <table>
+        <tr>
+            <td>
+                My student C++ labs & projects (click here to view ->)
+                <ul>
+                  <li>Qt applications</li>
+                  <li>STL containers</li>
+                  <li>Console applications</li>
+                </ul>
+            </td>
+            <td>
+                <a href="https://virtual.fn11.bmstu.ru/student-gitlab/dashboard/projects">
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-plain-wordmark.svg" width="100"/>
+                </a>
+            </td>
+        </tr>
+    </table>
+</div> <br /> <br />
 
-### Development tools
-<div align="left">
-    <img src="https://img.shields.io/badge/-git-090909?style=for-the-badge&logo=git" />
-    <img src="https://img.shields.io/badge/-gitlab-090909?style=for-the-badge&logo=gitlab" />
-    <img src="https://img.shields.io/badge/-github-white?style=for-the-badge&logo=github&labelColor=090909">
-    <img src="https://img.shields.io/badge/-Vim-019733.svg?style=for-the-badge&logo=vim&logoColor=white" />
-</div>
-
-### Technologies
-<div align="left">
-    <img src="https://img.shields.io/badge/-linux-090909?style=for-the-badge&logo=linux&logoColor=090909&labelColor=FF9100" />
-    <img src="https://img.shields.io/badge/-firebase-090909?style=for-the-badge&logo=firebase&labelColor=F6E96B&logoColor=090909" />
-    <img src="https://img.shields.io/badge/-latex-090909?style=for-the-badge&logo=latex&logoColor=179BAE" />
-    <img src="https://img.shields.io/badge/-android-090909?style=for-the-badge&logo=android" />
-    <img src="https://img.shields.io/badge/-jupyter-090909?style=for-the-badge&logo=jupyter" />
-</div>
-<div  align="left">
-    <img src="https://img.shields.io/badge/-obsidian-090909?style=for-the-badge&logo=obsidian&logoColor=8B5CF6" />
-</div>
-
-### Frameworks
-    <img src="https://img.shields.io/badge/-qt-090909?style=for-the-badge&logo=qt&logoColor=00FF00" />
-    <img src="https://img.shields.io/badge/-jetpack_compose-090909?style=for-the-badge&logo=jetpackcompose" />
-    <img src="https://img.shields.io/badge/-django-090909?style=for-the-badge&logo=django&logoColor=00712D" />
-</div> <br /> -->
-
-# <img src="https://img.shields.io/badge/Statistics-E72929" width="100"/>
+# <img src="https://img.shields.io/badge/Workflow_statistics-0174BE" width="210"/>
 <div align="left">
     <table>
         <tr> <!--Language statistics-->
