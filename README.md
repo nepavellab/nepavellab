@@ -1,7 +1,7 @@
-# <img src="https://img.shields.io/badge/Some_information_about_me-0174BE" width="280"/>
-- **BMSTU math & CS student**
-- **4+ years of non-commercial programming experience**
-- **The IT field of interest is Android development**
+# <img src="https://img.shields.io/badge/Немного информации о себе-0174BE" width="280"/>
+- **Студент направления "Математика и компьютерные науки" МГТУ им. Н.Э.Баумана**
+- **Более 4-х лет опыта некоммерческой разработки**
+- **Основная сфера - мобильная разработка под Android**
 <br />
 <div align="left">
     <table>
@@ -15,11 +15,11 @@
         </tr>
         <tr>
             <td>
-                My student C++ labs & projects
+                Студенческие проекты на C++
                 <ul>
-                  <li>Graphical UI applications on Qt</li>
-                  <li>STL containers</li>
-                  <li>Console applications</li>
+                  <li>Приложения с графическим интерфейсом на Qt</li>
+                  <li>Реализация STL контейнеров</li>
+                  <li>Консольные приложения</li>
                 </ul>
             </td>
             <td>
@@ -31,7 +31,7 @@
     </table>
 </div> <br />
 
-For more detailed information, you can read the [resume](https://github.com/nepavellab/CV).
+Для более детального ознакомления перейдите в репозиторий с [резюме](https://github.com/nepavellab/CV).
 <!--
 # <img src="https://img.shields.io/badge/Workflow_statistics-0174BE" width="200"/>
 <div align="left">
