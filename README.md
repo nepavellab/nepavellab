@@ -10,7 +10,7 @@
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50"/>
             </td>
             <td>
-                Репозитории с исходным кодом
+                Репозитории
             </td>
         </tr>
         <tr>
