@@ -5,6 +5,14 @@
 
 <div align="left">
     <table>
+        <tr align="center">
+            <td>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50"/>
+            </td>
+            <td>
+                Repositories
+            </td>
+        </tr>
         <tr>
             <td>
                 My student C++ labs & projects
@@ -32,22 +40,6 @@
             </td>
             <td>
                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nepavellab&hide_progress=true&theme=transparent&hide_border=true" width="400"/>
-            </td>
-        </tr>
-        <tr> <!--Github activity statistics
-            <td>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="120"/>
-            </td>
-            <td>
-                <img src="https://github-readme-stats.vercel.app/api?username=nepavellab&show_icons=true&theme=dark" width="400"/>
-            </td>
-        </tr>-->
-        <tr> <!--Algorithm statistics-->
-            <td>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/thealgorithms/thealgorithms-original-wordmark.svg" width="120" />
-            </td>
-            <td>
-                <img src="https://leetcard.jacoblin.cool/GNU_nan0_machine_s0n?theme=dark&font=JetBrains%20Mono&hide_border=true" width="400"/>
             </td>
         </tr>
     </table>
