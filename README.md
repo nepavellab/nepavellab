@@ -29,8 +29,9 @@
             </td>
         </tr>
     </table>
-</div> <br /> <br />
+</div> <br />
 
+For more detailed information, you can read the [resume](https://github.com/nepavellab/CV).
 <!--
 # <img src="https://img.shields.io/badge/Workflow_statistics-0174BE" width="200"/>
 <div align="left">
