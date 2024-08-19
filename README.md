@@ -23,7 +23,7 @@
     </table>
 </div> <br /> <br />
 
-# <img src="https://img.shields.io/badge/Workflow_statistics-0174BE" width="210"/>
+# <img src="https://img.shields.io/badge/Workflow_statistics-0174BE" width="200"/>
 <div align="left">
     <table>
         <tr> <!--Language statistics-->
