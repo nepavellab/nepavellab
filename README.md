@@ -33,17 +33,3 @@
 </div> <br />
 
 Для более детального ознакомления перейдите в репозиторий с [резюме](https://github.com/nepavellab/CV).
-<!--
-# <img src="https://img.shields.io/badge/Workflow_statistics-0174BE" width="200"/>
-<div align="left">
-    <table>
-        <tr>
-            <td>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="120"/>
-            </td>
-            <td>
-               <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nepavellab&hide_progress=true&theme=transparent&hide_border=true" width="400"/>
-            </td>
-        </tr>
-    </table>
-</div>-->
