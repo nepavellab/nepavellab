@@ -47,7 +47,7 @@
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/thealgorithms/thealgorithms-original-wordmark.svg" width="120" />
             </td>
             <td>
-                <img src="https://leetcard.jacoblin.cool/GNU_nan0_machine_s0n?theme=transparent&font=JetBrains%20Mono&hide_border=true" width="400"/>
+                <img src="https://leetcard.jacoblin.cool/GNU_nan0_machine_s0n?theme=dark&font=JetBrains%20Mono&hide_border=true" width="400"/>
             </td>
         </tr>
     </table>
