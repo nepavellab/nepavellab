@@ -7,7 +7,7 @@
     <table>
         <tr>
             <td>
-                My student C++ labs & projects (click here to view ->)
+                My student C++ labs & projects
                 <ul>
                   <li>Qt applications</li>
                   <li>STL containers</li>
