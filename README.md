@@ -31,10 +31,11 @@
     </table>
 </div> <br /> <br />
 
+<!--
 # <img src="https://img.shields.io/badge/Workflow_statistics-0174BE" width="200"/>
 <div align="left">
     <table>
-        <tr> <!--Language statistics-->
+        <tr>
             <td>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="120"/>
             </td>
@@ -43,14 +44,4 @@
             </td>
         </tr>
     </table>
-</div>
-
-<!-- # <img src="https://img.shields.io/badge/Follow_me-E72929" width="100"/>
-<div align="left">
-    <a href="https://t.me/Nep_pasha/">
-        <img src="https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram"/>
-    </a>
-    <a href="https://vk.com/ne__pavel">
-        <img src="https://img.shields.io/badge/-вконтакте-090909?style=for-the-badge&logo=vk&logoColor=4680C2"/>
-    </a>
-</div> -->
+</div>-->
