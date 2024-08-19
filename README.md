@@ -2,7 +2,7 @@
 - **BMSTU math & CS student**
 - **4+ years of non-commercial programming experience**
 - **The IT field of interest is Android development**
-
+<br />
 <div align="left">
     <table>
         <tr align="center">
