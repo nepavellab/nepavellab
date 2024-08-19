@@ -9,7 +9,7 @@
             <td>
                 My student C++ labs & projects
                 <ul>
-                  <li>Qt applications</li>
+                  <li>Graphical UI applications on Qt</li>
                   <li>STL containers</li>
                   <li>Console applications</li>
                 </ul>
