@@ -2,7 +2,11 @@
 - **BMSTU math & CS student**
 - **4+ years of non-commercial programming experience**
 - **The IT field of interest is Android development**
-<br />
+  
+### See my C++ labs & projects here:
+<a href="https://virtual.fn11.bmstu.ru/student-gitlab/dashboard/projects">
+    <img src="https://img.shields.io/badge/-gitlab-090909?style=for-the-badge&logo=gitlab" width="150"/>
+</a> <br /> <br />
 
 <!-- # <img src="https://img.shields.io/badge/Workspace-E72929" width="120"/>
 
@@ -67,16 +71,14 @@
             </td>
         </tr>
     </table>
-</div> <br />
+</div>
 
-# <img src="https://img.shields.io/badge/Follow_me-E72929" width="100"/>
+<!-- # <img src="https://img.shields.io/badge/Follow_me-E72929" width="100"/>
 <div align="left">
-    <!--Telegram-->
     <a href="https://t.me/Nep_pasha/">
         <img src="https://img.shields.io/badge/-telegram-090909?style=for-the-badge&logo=telegram"/>
     </a>
-    <!--VK-->
     <a href="https://vk.com/ne__pavel">
         <img src="https://img.shields.io/badge/-вконтакте-090909?style=for-the-badge&logo=vk&logoColor=4680C2"/>
     </a>
-</div>
+</div> -->
