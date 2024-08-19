@@ -32,4 +32,18 @@
     </table>
 </div> <br />
 
-Для более детального ознакомления перейдите в репозиторий с [резюме](https://github.com/nepavellab/CV).
+Для более детального ознакомления можете ознакомиться с [резюме](https://github.com/nepavellab/CV). <br />
+
+<!--
+<table>
+    <tr>
+        <td>
+            Просмотр визитки 👉
+        </td>
+        <td>
+            <a href="https://virtual.fn11.bmstu.ru/student-gitlab/dashboard/projects">
+                <img src="https://img.shields.io/badge/Click_on_me-E4003A" width="100"/>
+            </a>
+        </td>
+    </tr>
+</table>-->
