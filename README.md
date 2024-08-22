@@ -4,7 +4,7 @@
 - **Опыт некоммерческой разработки на языках: Python, C++, Java**
 <br />
 
-Мои работы на других платформах
+<!--Мои работы на других платформах
 <div align="left">
     <table>
         <tr align="center">
@@ -31,7 +31,24 @@
             </td>
         </tr>
     </table>
-</div> <br />
+</div> <br />-->
+
+# Языки программирования
+<div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" width="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50"/>
+</div>
+
+# Технологии и фреймворки
+<div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" width="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" width="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-plain.svg" width="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" width="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="50"/>
+</div> <br /> <br />
 
 Для получения более детальной информации можете ознакомиться с [резюме](https://github.com/nepavellab/CV). <br />
 
