@@ -1,8 +1,4 @@
-# <img src="https://img.shields.io/badge/Немного_информации_о_себе-0174BE" width="280"/>
-- **Студент направления "Математика и компьютерные науки" МГТУ им. Н.Э.Баумана**
-- **Более 4-х лет в программировании**
-- **Опыт некоммерческой разработки на языках: Python, C++, Java**
+# <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="35" height="35"> <img src="https://img.shields.io/badge/Welcome_to_my_work_space-C80036" width="300"/> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2699_fe0f/512.gif" alt="⚙" width="35" height="35">
 <br />
 
-**Для получения более детальной информации можете ознакомиться с [резюме](https://github.com/nepavellab/CV).** <br />
-**Мои студенческие проекты по C++: [GitLab](https://virtual.fn11.bmstu.ru/student-gitlab/dashboard/projects).**
+**[Резюме](https://github.com/nepavellab/CV) со всей информацией.** <br />
