@@ -14,5 +14,5 @@
 <br />
 ![QT](https://img.shields.io/badge/qt-black?style=for-the-badge&logo=qt)
 ![FireBase](https://img.shields.io/badge/firebase-black?style=for-the-badge&labelColor=F5820D&logo=firebase&logoColor=white)
-![Three.js](https://img.shields.io/badge/three.js-black?style=for-the-badge&logo=three.js&labelColor=yellow&logoColor=white)
+![Three.js](https://img.shields.io/badge/three.js-black?style=for-the-badge&logo=three.js&logoColor=yellow)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
